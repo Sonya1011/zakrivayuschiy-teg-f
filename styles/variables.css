@@ -1,1 +1,17 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --bg-image: url("../images/background.png");
+  --bg-color: #fff;
+  --variable-text: "Inter-Variable";
+  --accent-text: "PressStart2P-Regular";
+  --accent-color: #000;
+  --button-color: #fff;
+  --heart-color: #000;
+  --core-color: #fff;
+  --main-body-color: #FF0000;
+  --border-color: #000;
+  --font-weight: "wght" 400;
+  --font-weight-bold: "wght" 700;
+  --font-size: 18px;
+  --backdrop-color: rgb(0 0 0 / 0.75);
+}
