@@ -321,7 +321,7 @@
 
 .is-liked .heart {
   transform-origin: center;
-  animation: scale 0.3s 0.1s alternate ease-in;
+  animation: scale-heart 0.3s 0.1s alternate ease-in;
 }
 
 /* FILTER IMG */
