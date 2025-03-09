@@ -34,13 +34,11 @@
   margin: 103px auto;
   border: 2px solid  var(--border-color, #000);
   max-inline-size: 696px;
-  /*max-block-size: 364px;*/
   font-family: var(--accent-text, monospace);
   padding-block: clamp(130px, 10vw, 130px);
 }
 
 .header-title {
-  /*font-variation-settings: var(--font-weight, "wght" 400);*/
   font-size: clamp(3.0625rem, 2.7109rem + 1.5vw, 4.0625rem);
   text-transform: uppercase;
   padding-block-end: 15px;
@@ -76,7 +74,6 @@
   position: relative;
   font-family: var(--variable-text, sans-serif);
   font-size: var(--font-size, 18px);
-  /*font-variation-settings: var(--font-weight, "wght" 400);*/
 }
 
 .img {
