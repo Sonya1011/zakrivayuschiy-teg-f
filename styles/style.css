@@ -229,11 +229,11 @@
 /* ANIMATIONS BUTTON*/
 
 .card__icon-button:focus {
-  border: none;
+  outline: none;
 }
 
 .card__icon-button:focus-visible {
-  border: 2px solid #000;
+  outline: 1px solid #000;
 }
 
 .button:focus {
@@ -271,7 +271,6 @@
   padding: 0 0 0 0;
   height: 38px;
   background-color: transparent;
-  transition: 0.3s ease;
 }
 
 .sparks {
